@@ -1,0 +1,6 @@
+Example project for how Vaadin Grid can be used in a GWT 2.7 project with a
+customized Valo theme
+
+Run as
+
+mvn gwt:run
